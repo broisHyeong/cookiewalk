@@ -1,4 +1,4 @@
-import Pause from "./01/pause";
+import Pause from "./01/pause.jsx";
 
 function App() {
   return(
